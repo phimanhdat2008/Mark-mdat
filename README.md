@@ -1,0 +1,3 @@
+- 👋 Hi, I’m ManhDat(mark)
+- 👀 Ôi bạn mến yêu. Chào bạn đến với nhà của tôi:))
+- 🌱 Thứ tôi đang tìm hiểu là code Python , C/C++ và Java bạn ko phiền khi giúp tôi chứ <3.
